@@ -1,0 +1,13 @@
+01 contains_duplicate
+02 first_duplicate
+03 first_non_repeating
+04 first_unique_number
+05 two_sum_unique
+06 valid_anagram
+07 common_character_count
+08 array_max_consecutive_sum
+09 is_lucky
+10 addBorder
+11 alternating_sums
+12 count_pairs
+13 longest_word_length
