@@ -17,10 +17,7 @@
 1er 
 arraglos simples recorrer o transformar o sumar valores operaciones con enteros 
 
-2 string parring machin slilig windows validaciones de cadenas substring y contcatenacions
-
-3 me lo salto ///////
-matrices y arraglos transversales, simulaciones de movimientos caidas
+2 string parsing machine slicing windows validaciones de cadenas substring y contcatenacions
 
 4 hash maps diccionarios y conteos eficionetes pares que cumplan condiciones 
 pensamientos algoritmico y evitar las fuerza bruta.
