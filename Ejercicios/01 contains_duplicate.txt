@@ -23,19 +23,11 @@ arraglos simples recorrer o transformar o sumar valores operaciones con enteros
 pensamientos algoritmico y evitar las fuerza bruta.
 
 
-array_manipulation
-average_salary_excluding_the_minimum_and_maximum_salary
-build_array_from_permutation
-count_items_matching_a_rule
-find_Numbers_with_Even_Number_of_Digits
-find_the_highest_altitude
-maximum_number_of_words_found_in_sentences
-minimum_cost_of_buying_candies_with_discount
-number_of_good_pairs
-plus_one
-richest_customer_wealth
-running_sum_of_1d_array
-shuffle_the_array
-sum_of_all_odd_length_subarrays
-sum_of_subarray_ranges
-suma_de_los_elementos_anteriores
+128. Longest Consecutive Sequence
+454. 4Sum II
+1010. Pairs of Songs With Total Durations Divisible by 60
+2131. Longest Palindrome by Concatenating Two Letter Words
+954. Array of Doubled Pairs
+923. 3Sum With Multiplicity
+1248. Count Number of Nice Subarrays
+532. K-diff Pairs in an Array
